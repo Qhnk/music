@@ -1,0 +1,3 @@
+https://github.com/SEU_USUARIO/SEU_REPOSITORIO/raw/main/musicas/musica1.mp3|Nome da Música 1
+https://github.com/SEU_USUARIO/SEU_REPOSITORIO/raw/main/musicas/musica2.mp3|Nome da Música 2
+https://github.com/SEU_USUARIO/SEU_REPOSITORIO/raw/main/musicas/musica3.mp3|Nome da Música 3
