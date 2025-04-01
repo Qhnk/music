@@ -1,3 +1,6 @@
-https://github.com/SEU_USUARIO/SEU_REPOSITORIO/raw/main/musicas/musica1.mp3|Nome da Música 1
-https://github.com/SEU_USUARIO/SEU_REPOSITORIO/raw/main/musicas/musica2.mp3|Nome da Música 2
-https://github.com/SEU_USUARIO/SEU_REPOSITORIO/raw/main/musicas/musica3.mp3|Nome da Música 3
+# Playlist de Músicas
+# Formato: URL|Título
+https://github.com/Qhnk/music/raw/refs/heads/main/mix1.mp3|Mix para Jogar 1
+https://github.com/Qhnk/music/raw/refs/heads/main/mix2.mp3|Mix para Jogar 2
+https://github.com/Qhnk/music/raw/refs/heads/main/mix3.mp3|Mix para Jogar 3
+# Você pode adicionar mais músicas abaixo
