@@ -2,5 +2,5 @@
 # Formato: URL|Título
 https://github.com/Qhnk/music/raw/refs/heads/main/mix1.mp3|Mix #1
 https://ia600108.us.archive.org/29/items/mix2_20250401/mix2.mp3|Mix para Jogar 2
-https://github.com/Qhnk/music/raw/refs/heads/main/mix1.mp3|Mix para Jogar 3
+https://archive.org/download/trap-nation-1-hour/Trap%20Nation%20%281%20Hour%29.mp3|Mix para Jogar 3
 # Você pode adicionar mais músicas abaixo
