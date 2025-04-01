@@ -1,6 +1,6 @@
 # Playlist de Músicas
 # Formato: URL|Título
-https://github.com/Qhnk/music/raw/refs/heads/main/mix1.mp3|Mix para Jogar 1
+https://github.com/Qhnk/music/raw/refs/heads/main/mix1.mp3|Mix 1
 https://github.com/Qhnk/music/raw/refs/heads/main/mix2.mp3|Mix para Jogar 2
 https://github.com/Qhnk/music/raw/refs/heads/main/mix3.mp3|Mix para Jogar 3
 # Você pode adicionar mais músicas abaixo
