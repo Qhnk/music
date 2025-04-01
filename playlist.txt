@@ -1,6 +1,9 @@
 # Playlist de Músicas
 # Formato: URL|Título
 https://github.com/Qhnk/music/raw/refs/heads/main/mix1.mp3|Mix #1
-https://ia600108.us.archive.org/29/items/mix2_20250401/mix2.mp3|Mix para Jogar 2
-https://archive.org/download/trap-nation-1-hour/Trap%20Nation%20%281%20Hour%29.mp3|Mix para Jogar 3
+https://ia600108.us.archive.org/29/items/mix2_20250401/mix2.mp3|Mix #2
+https://archive.org/download/trap-nation-1-hour/Trap%20Nation%20%281%20Hour%29.mp3|Mix #3
+https://archive.org/download/nightcore-gaming-mix-2023-1-hour-nightcore-mix-best-of-edm-mix-2023/Nightcore%20Gaming%20Mix%202023%20%E2%99%AB%201%20Hour%20Nightcore%20Mix%20%E2%99%AB%20Best%20of%20EDM%20Mix%202023.mp3|Mix #4
+https://archive.org/download/nightcore-gaming-mix-2023-1-hour-nightcore-mix-best-of-edm-mix-2023/Nightcore%20Songs%20Mix%202023%20%E2%99%AB%201%20Hour%20Nightcore%20Gaming%20Music%20Mix%20%E2%99%AB%20Best%20of%20Gaming%20Music%202023.mp3|Mix #5
+https://archive.org/download/trap-nation-gaming-music-mix-2020-best-trap-edm/Trap%20Nation_%20Gaming%20Music%20Mix%202020%20%F0%9F%8E%AE%F0%9F%91%BE%20%28Best%20Trap_EDM%29.mp3 | Mix #6
 # Você pode adicionar mais músicas abaixo
