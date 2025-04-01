@@ -1,12 +1,1 @@
-{
-  "tracks": [
-    {
-      "url": "https://github.com/Qhnk/music/raw/refs/heads/main/mix1.mp3",
-      "title": "Mix para Jogar 1"
-    },
-    {
-      "url": "https://github.com/Qhnk/music/raw/refs/heads/main/mix2.mp3",
-      "title": "Mix para jogar 2"
-    }
-  ]
-}
+{"tracks":[{"url":"https://github.com/Qhnk/music/raw/refs/heads/main/mix1.mp3","title":"Mix 1"},{"url":"https://github.com/Qhnk/music/raw/refs/heads/main/mix2.mp3","title":"Mix 2"}]}
