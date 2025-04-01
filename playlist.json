@@ -1,1 +1,14 @@
-{"tracks":[{"url":"https://github.com/Qhnk/music/raw/refs/heads/main/mix1.mp3","title":"Mix 1"},{"url":"https://github.com/Qhnk/music/raw/refs/heads/main/mix2.mp3","title":"Mix 2"}]}
+[
+  {
+    "url": "https://github.com/SEU_USUARIO/SEU_REPOSITORIO/raw/main/musicas/musica1.mp3",
+    "title": "Nome da Música 1"
+  },
+  {
+    "url": "https://github.com/SEU_USUARIO/SEU_REPOSITORIO/raw/main/musicas/musica2.mp3",
+    "title": "Nome da Música 2"
+  },
+  {
+    "url": "https://github.com/SEU_USUARIO/SEU_REPOSITORIO/raw/main/musicas/musica3.mp3",
+    "title": "Nome da Música 3"
+  }
+]
